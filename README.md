@@ -9,13 +9,13 @@ About azure storage queue details.
 	•	Messages in Storage queues are typically first-in-first-out, but sometimes they can be out of order; for example, when a message's visibility timeout duration expires.
 	•	DequeueCount count is maintained by Azure Queue service, this is per message count. The DequeueCount element has a value of 1 the first time the message is dequeued. This value is incremented each time the message is subsequently dequeued
 
-Add below NuGet packages
+Add NuGet packages
 
 	•	Azure.storage.queue
 	•	Microsoft.extensions.azure
 	•	Microsoft.extensions.hosting
 
-Add below extension in Configureservices in startup.cs file
+Add extension in Configureservices in startup.cs file
 
 	•	AddHostedService – for background service
       
