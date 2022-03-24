@@ -15,7 +15,7 @@ Add NuGet packages
 	•	Microsoft.extensions.azure
 	•	Microsoft.extensions.hosting
 
-Add extension in Configureservices in startup.cs file 
+Add extension in Configureservices in startup.cs file
 
 	•	AddHostedService – for background service
       
