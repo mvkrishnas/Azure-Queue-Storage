@@ -34,3 +34,4 @@ Add extension in Configureservices in startup.cs file
                             , new QueueClientOptions { MessageEncoding = QueueMessageEncoding.Base64 });
                     });
                 });
+
