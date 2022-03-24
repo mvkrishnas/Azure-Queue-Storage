@@ -30,7 +30,7 @@ namespace Queue_Storage
         {
             services.AddControllers();
             
-            services.AddHostedService<WeatherDataService>();
+            //services.AddHostedService<WeatherDataService>();
 
             services.AddAzureClients(builder =>
             {

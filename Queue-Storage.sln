@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue-Storage", "Queue-Storage.csproj", "{5BEECC24-3BC8-451F-B358-558ACAAFB70E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataIngestor", "..\DataIngestor\DataIngestor.csproj", "{A4B84B98-D9B0-4692-995B-98475665CD70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5BEECC24-3BC8-451F-B358-558ACAAFB70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BEECC24-3BC8-451F-B358-558ACAAFB70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BEECC24-3BC8-451F-B358-558ACAAFB70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B84B98-D9B0-4692-995B-98475665CD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B84B98-D9B0-4692-995B-98475665CD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B84B98-D9B0-4692-995B-98475665CD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B84B98-D9B0-4692-995B-98475665CD70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

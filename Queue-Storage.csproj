@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Queue_Storage</RootNamespace>
+    <UserSecretsId>8875f733-44a0-4e61-a7e4-420ef10a7b17</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
