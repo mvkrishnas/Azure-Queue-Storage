@@ -1,5 +1,5 @@
 ### What changed, and why?
-_Add more context to describe the chnages..._
+_Add more context to describe the chnages._
 
 ### Related work item(s) (story/task/ticket number, with urls)
 * [InsertWorkItemNumberHere](Insert WorkItem Url Here)
