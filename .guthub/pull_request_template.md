@@ -1,6 +1,3 @@
-### Summary
-_provide an overview..._
-
 ### What changed, and why?
 _Add more context to describe the chnages..._
 
